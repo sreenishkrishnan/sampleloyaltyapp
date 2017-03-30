@@ -6,4 +6,5 @@ public with sharing class Class1 {
     //test again test
     
     //test2
+    //blah blah
 }
